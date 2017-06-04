@@ -14,7 +14,9 @@ Just download pub/wonderXMD_1.x.rplib file and put it to document/axure/librarie
 
 ## HOW TO CONTRIBUTE／如何贡献元件:
 Please send your component. rplib file and the. MD documentation placed in the dev directory, and your github account suffix,for example:/dev/button_zhyuzh3d.rplib,/dev/button_zhyuzh3d.md;
-> 请将您的元件.rplib文件和.md说明文件放在dev文件目录下，并您的github账号后缀，例如/dev/button_zhyuzh3d.rplib,/dev/button_zhyuzh3d.md;
+
+> 请将您的元件.rplib文件和.md说明文件放在dev文件目录下，并您的github账号后缀，例如/dev/button_zhyuzh3d.rplib,/dev/button_zhyuzh3d.md; 
+
 
 
 ## HISTORY
