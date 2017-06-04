@@ -1,8 +1,10 @@
 # wonderXMD
 Wonderful axure material design lib.For axure 8 or later.
+> Axure 8 材料设计元件库（完美版）
 
-## HOW TO INSTALL:
+## HOW TO INSTALL / 如何安装:
 Just download pub/wonderXMD_1.x.rplib file and put it to document/axure/libraries. 
+> 下载／pub文件夹下的.rplib文件，直接复制到／我的文档／axure／libraries目录下，汉化版同时复制到／元件库 文件夹下，然后重启Axure即可从库面板的下拉菜单中找到.
 
 ## NOTE / 注意:
 * /pub/,Integer version is final release,recommended use,like 1.0;
@@ -21,7 +23,7 @@ Please send your component. rplib file and the. MD documentation placed in the d
 
 
 
-## HISTORY
+## HISTORY / 版本历史
 
 **2017.06.04**
 * Initial project.
