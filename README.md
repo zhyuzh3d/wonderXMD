@@ -27,5 +27,11 @@ Please send your component. rplib file and the. MD documentation placed in the d
 
 ## HISTORY / 版本历史
 
+**2017.10.10**
+* 改进波纹动效组件，发布beta-0.02版本.
+
+**2017.06.04-2**
+* 增加wave波纹组件，发布beta-0.01版本.
+
 **2017.06.04**
 * Initial project.
